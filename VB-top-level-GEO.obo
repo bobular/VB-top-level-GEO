@@ -294,7 +294,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000036
-name: Republic of Congo
+name: Democratic Republic of the Congo
 def: "The Democratic Republic of the Congo is a country located in Central Africa. From 1971 to 1997 it was named, and is sometimes still called, Zaire, and from 1908 to 1960 it was called the Belgian Congo. The DRC borders the Central African Republic, and South Sudan to the north; Uganda, Rwanda, Burundi and Tanzania to the east; Zambia and Angola to the south; the Republic of the Congo to the west and the Atlantic Ocean to the southwest [Wikipedia]." [GeoNames:203312, ISO_3166-2:CD]
 is_a: ID:GEO0000013 ! Central Africa
 created_by: lawson
@@ -503,7 +503,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000062
-name: Congo
+name: Republic of Congo
 def: "The Republic of Congo  is a country located in Central Africa. It is bordered by five countries: Gabon and the Atlantic Ocean to the west; Cameroon to the northwest; the Central African Republic to the northeast; the Democratic Republic of the Congo to the east and south; and the Angolan exclave of Cabinda to the southwest [Wikipedia]." [GeoNames:2260494, ISO_3166-2:CG]
 is_a: ID:GEO0000013 ! Central Africa
 created_by: lawson
@@ -1254,7 +1254,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000153
-name: Aland Islands
+name: Åland
 def: "." [GeoNames:661882, ISO_3166-2:AX]
 is_a: ID:GEO0000010 ! Northern Europe
 created_by: lawson
