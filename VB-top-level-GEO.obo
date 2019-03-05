@@ -294,7 +294,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000036
-name: Democratic Republic of the Congo
+name: Republic of Congo
 def: "The Democratic Republic of the Congo is a country located in Central Africa. From 1971 to 1997 it was named, and is sometimes still called, Zaire, and from 1908 to 1960 it was called the Belgian Congo. The DRC borders the Central African Republic, and South Sudan to the north; Uganda, Rwanda, Burundi and Tanzania to the east; Zambia and Angola to the south; the Republic of the Congo to the west and the Atlantic Ocean to the southwest [Wikipedia]." [GeoNames:203312, ISO_3166-2:CD]
 is_a: ID:GEO0000013 ! Central Africa
 created_by: lawson
@@ -519,7 +519,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000064
-name: Ivory Coast
+name: Côte d'Ivoire
 def: "A Republic within Africa." [GeoNames:2287781, ISO_3166-2:CI]
 is_a: ID:GEO0000012 ! Western Africa
 created_by: lawson
@@ -607,7 +607,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000075
-name: Sao Tome and Principe
+name: São Tomé and Príncipe
 def: "A country within " [GeoNames:2410758, ISO_3166-2:ST]
 is_a: ID:GEO0000013 ! Central Africa
 created_by: lawson
@@ -703,7 +703,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000087
-name: Saint Helena, Ascension, and Tristan da Cunha
+name: Saint Helena
 def: "A group of islands in the South Atlantic." [GeoNames:3370751, ISO_3166-2:SH]
 is_a: ID:GEO0000012 ! Western Africa
 created_by: lawson
@@ -711,7 +711,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000088
-name: Cabo Verde
+name: Cape Verde
 def: "A Republic within Africa." [GeoNames:3374766, ISO_3166-2:CV]
 is_a: ID:GEO0000012 ! Western Africa
 created_by: lawson
@@ -1004,7 +1004,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000122
-name: Cocos (Keeling) Islands
+name: Cocos Islands
 def: "." [GeoNames:1547376, ISO_3166-2:CC]
 is_a: ID:GEO0000002 ! Asia
 created_by: lawson
@@ -1084,7 +1084,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000132
-name: Brunei Darussalam
+name: Brunei
 def: "A country within Asia." [GeoNames:1820814, ISO_3166-2:BN]
 is_a: ID:GEO0000022 ! South Eastern Asia
 created_by: lawson
@@ -1092,7 +1092,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000133
-name: Macau
+name: Macao
 def: "." [GeoNames:1821275, ISO_3166-2:MO]
 is_a: ID:GEO0000020 ! Eastern Asia
 created_by: lawson
@@ -1156,7 +1156,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000141
-name: Palestine
+name: Palestina
 def: "." [GeoNames:6254930, ISO_3166-2:PS]
 is_a: ID:GEO0000008 ! Middle East
 is_a: ID:GEO0000023 ! Western Asia
@@ -1168,7 +1168,6 @@ id: ID:GEO0000142
 name: Cyprus
 def: "Cyprus is an island country in the Eastern Mediterranean." [GeoNames:146669, ISO_3166-2:CY]
 is_a: ID:GEO0000008 ! Middle East
-is_a: ID:GEO0000023 ! Western Asia
 is_a: ID:GEO0000029 ! Southern Europe
 created_by: lawson
 creation_date: 2017-02-17T00:00:00Z
@@ -1527,7 +1526,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000187
-name: Czechia
+name: Czech Republic
 def: "A country within Europe." [GeoNames:3077311, ISO_3166-2:CZ]
 is_a: ID:GEO0000011 ! Eastern Europe
 created_by: lawson
@@ -1625,7 +1624,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000199
-name: Saint Pierre et Miquelon
+name: Saint Pierre and Miquelon
 def: "." [GeoNames:3424932]
 is_a: ID:GEO0000004 ! North America
 is_a: ID:GEO0000016 ! Northern America
@@ -1769,7 +1768,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000215
-name: Saint Martin
+name: Saint-Martin
 def: "." [GeoNames:3578421, ISO_3166-2:MF]
 is_a: ID:GEO0000004 ! North America
 is_a: ID:GEO0000017 ! Caribbean
@@ -1778,7 +1777,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000216
-name: Saint Barthelemy
+name: Saint-Barthélemy
 def: "." [GeoNames:3578476]
 is_a: ID:GEO0000004 ! North America
 is_a: ID:GEO0000017 ! Caribbean
@@ -1922,7 +1921,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000232
-name: U.S. Virgin Islands
+name: Virgin Islands, U.S.
 def: "." [GeoNames:4796775, ISO_3166-2:VI]
 is_a: ID:GEO0000004 ! North America
 is_a: ID:GEO0000017 ! Caribbean
@@ -1940,7 +1939,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000234
-name: United States of America
+name: United States
 def: "A country within North America." [GeoNames:6252001, ISO_3166-2:US]
 is_a: ID:GEO0000004 ! North America
 is_a: ID:GEO0000016 ! Northern America
@@ -1958,7 +1957,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000236
-name: Curacao
+name: Curaçao
 def: "." [GeoNames:7626836]
 is_a: ID:GEO0000004 ! North America
 is_a: ID:GEO0000017 ! Caribbean
@@ -2225,7 +2224,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000269
-name: Pitcairn
+name: Pitcairn Islands
 def: "." [GeoNames:4030699, ISO_3166-2:PN]
 is_a: ID:GEO0000027 ! Polynesia
 created_by: lawson
@@ -2257,7 +2256,7 @@ creation_date: 2017-02-17T00:00:00Z
 
 [Term]
 id: ID:GEO0000273
-name: Wallis et Futuna
+name: Wallis and Futuna
 def: "." [GeoNames:4034749, ISO_3166-2:WF]
 is_a: ID:GEO0000027 ! Polynesia
 created_by: lawson
@@ -2318,4 +2317,10 @@ def: "." [GeoNames:1546748, ISO_3166-2:TF]
 is_a: ID:GEO0000007 ! Antarctica
 created_by: lawson
 creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: http://purl.obolibrary.org/obo/GEO00002000
+name: Northern Cyprus
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000029 ! Southern Europe
 
