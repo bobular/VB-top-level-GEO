@@ -2319,7 +2319,7 @@ created_by: lawson
 creation_date: 2017-02-17T00:00:00Z
 
 [Term]
-id: http://purl.obolibrary.org/obo/GEO00002000
+id: ID:GEO0002000
 name: Northern Cyprus
 is_a: ID:GEO0000008 ! Middle East
 is_a: ID:GEO0000029 ! Southern Europe
