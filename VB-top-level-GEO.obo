@@ -1,0 +1,2321 @@
+format-version: 1.2
+date: 16:02:2017 04:55
+saved-by: lawson
+auto-generated-by: OBO-Edit 2.3
+default-namespace: GeoNames
+ontology: TEMP
+
+[Term]
+id: ID:GEO0000000
+name: Earth
+def: "Earth" [GeoNames:6295630]
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000001
+name: Africa
+def: "A continent." [GeoNames:6255146]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000002
+name: Asia
+def: "A continent." [GeoNames:6255147]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000003
+name: Europe
+def: "A continent." [GeoNames:6255148]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000004
+name: North America
+def: "A continent." [GeoNames:6255149]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000005
+name: South America
+def: "A continent." [GeoNames:6255150]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000006
+name: Oceania
+def: "A continent." [GeoNames:6255151]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000007
+name: Antarctica
+def: "A continent." [GeoNames:6255152]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000008
+name: Middle East
+def: "Region comprising of the following countries: AE,BH,CY,EG,IL,IQ,IR,JO,KW,LB,OM,PS,QA,SA,SY,TR,YE." [GeoNames:6269133]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000009
+name: Arabia
+def: "Region comprising of the following countries: AE,BH,KW,OM,QA,SA,YE." [GeoNames:6957698]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000010
+name: Northern Europe
+def: "Region comprising of the following countries: GB,SE,DK,FI,NO,IE,LT,LV,EE,IS,JE,IM,GG,FO,AX." [GeoNames:7729883]
+is_a: ID:GEO0000003 ! Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000011
+name: Eastern Europe
+def: "Region comprising of the following countries: RU,UA,PL,RO,CZ,HU,BY,BG,SK,MD." [GeoNames:7729884]
+is_a: ID:GEO0000003 ! Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000012
+name: Western Africa
+def: "Region comprising of the following countries: NG,GH,CI,BF,NE,ML,SN,GN,BJ,TG,SL,LR,MR,GM,GW,CV,SH." [GeoNames:7729885]
+is_a: ID:GEO0000001 ! Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000013
+name: Central Africa
+def: "Region comprising of the following countries: CD,CM,AO,TD,CF,CG,GA,GQ,ST." [GeoNames:7729886]
+is_a: ID:GEO0000001 ! Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000014
+name: Northern Africa
+def: "Region comprising of the following countries: EG,SD,DZ,MA,TN,LY." [GeoNames:7729887]
+is_a: ID:GEO0000001 ! Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000015
+name: Eastern Africa
+def: "Region comprising of the following countries: ET,TZ,KE,UG,MZ,MG,MW,ZM,ZW,RW,SO,BI,SS,ER,MU,RE,KM,DJ,YT,SC." [GeoNames:7729889]
+is_a: ID:GEO0000001 ! Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000016
+name: Northern America
+def: "Region comprising of the following countries: US,CA,BM,GL,PM." [GeoNames:7729890]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000017
+name: Caribbean
+def: "Region comprising of the following countries: CU,DO,HT,PR,JM,TT,GP,MQ,BS,BB,LC,CW,VI,GD,VC,AG,DM,AW,KN,KY,SX,MF,VG,TC,BQ,AI,MS,BL." [GeoNames:7729891]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000018
+name: Central America
+def: "Region comprising of the following countries: MX,GT,HN,SV,NI,CR,PA,BZ." [GeoNames:7729892]
+is_a: ID:GEO0000000 ! Earth
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000019
+name: Central Asia
+def: "Region comprising of the following countries: UZ,KZ,TJ,KG,TM." [GeoNames:7729893]
+is_a: ID:GEO0000002 ! Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000020
+name: Eastern Asia
+def: "Region comprising of the following countries: CN,JP,KR,KP,HK,MN,MO." [GeoNames:7729894]
+is_a: ID:GEO0000002 ! Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000021
+name: Southern Asia
+def: "Region comprising of the following countries: IN,PK,BD,IR,AF,NP,LK,BT,MV." [GeoNames:7729895]
+is_a: ID:GEO0000002 ! Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000022
+name: South Eastern Asia
+def: "Region comprising of the following countries: ID,PH,VN,TH,MM,MY,KH,LA,SG,TL,BN." [GeoNames:7729896]
+is_a: ID:GEO0000002 ! Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000023
+name: Western Asia
+def: "Region comprising of the following countries: TR,IQ,SA,YE,SY,AZ,IL,JO,AE,GE,LB,PS,AM,OM,KW,CY,QA,BH." [GeoNames:7729897]
+is_a: ID:GEO0000002 ! Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000024
+name: Australia and New Zealand
+def: "Region comprising of the following countries: AU,NZ,NF." [GeoNames:7729898]
+is_a: ID:GEO0000006 ! Oceania
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000025
+name: Melanesia
+def: "Region comprising of the following countries: PG,FJ,SB,VU,NC." [GeoNames:7729899]
+is_a: ID:GEO0000006 ! Oceania
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000026
+name: Micronesia
+def: "Region comprising of the following countries: GU,FM,KI,MH,PW,NR." [GeoNames:7729900]
+is_a: ID:GEO0000006 ! Oceania
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000027
+name: Polynesia
+def: "Region comprising of the following countries: WS,TO,CK,WF,TV,NU,TK,PN." [GeoNames:7729901]
+is_a: ID:GEO0000006 ! Oceania
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000028
+name: Southern Africa
+def: "Region comprising of the following countries: ZA,NA,BW,LS,SZ." [GeoNames:9406051]
+is_a: ID:GEO0000001 ! Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000029
+name: Southern Europe
+def: "Region comprising of the following countries: IT,ES,GR,PT,RS,BA,HR,AL,MK,SI,ME,MT,AD,SM,GI,VA." [GeoNames:9408658]
+is_a: ID:GEO0000003 ! Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000030
+name: Western Europe
+def: "Region comprising of the following countries: DE,FR,NL,BE,AT,CH,LU,LI,MC." [GeoNames:9408659]
+is_a: ID:GEO0000003 ! Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000031
+name: Caucasus Region
+def: "Region comprising of the following countries: AM,AZ,GE." [GeoNames:615318]
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000032
+name: Rwanda
+def: "Rwanda is a sovereign state in central and east Africa and one of the smallest countries on the African mainland. Located a few degrees south of the Equator, Rwanda is bordered by Uganda, Tanzania, Burundi and the Democratic Republic of the Congo [Wikipedia]." [GeoNames:49518, ISO_3166-2:RW]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000033
+name: Somalia
+def: "Somalia is a country located in the Horn of Africa. It is bordered by Ethiopia to the west, Djibouti to the northwest, the Gulf of Aden to the north, the Indian Ocean to the east, and Kenya to the southwest [Wikipedia]." [GeoNames:51537, ISO_3166-2:SO]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000034
+name: Tanzania
+def: "Tanzania is a country in Eastern Africa within the African Great Lakes region. It is bordered by Kenya and Uganda to the north; Rwanda, Burundi, and the Democratic Republic of the Congo to the west; Zambia, Malawi, and Mozambique to the south; and by the Indian Ocean to the east [Wikipedia]." [GeoNames:149590, ISO_3166-2:TZ]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000035
+name: Kenya
+def: "Kenya is a country in East Africa, bordered by Tanzania to the south and southwest, Uganda to the west, South Sudan to the north-west, Ethiopia to the north and Somalia to the north-east [Wikipedia]." [GeoNames:192950, ISO_3166-2:KE]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000036
+name: Democratic Republic of the Congo
+def: "The Democratic Republic of the Congo is a country located in Central Africa. From 1971 to 1997 it was named, and is sometimes still called, Zaire, and from 1908 to 1960 it was called the Belgian Congo. The DRC borders the Central African Republic, and South Sudan to the north; Uganda, Rwanda, Burundi and Tanzania to the east; Zambia and Angola to the south; the Republic of the Congo to the west and the Atlantic Ocean to the southwest [Wikipedia]." [GeoNames:203312, ISO_3166-2:CD]
+is_a: ID:GEO0000013 ! Central Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000037
+name: Djibouti
+def: "A Republic within Africa." [GeoNames:223816, ISO_3166-2:DJ]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000038
+name: Uganda
+def: "A Republic within Africa." [GeoNames:226074, ISO_3166-2:UG]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000039
+name: Central African Republic
+def: "A Republic within Africa." [GeoNames:239880, ISO_3166-2:CF]
+is_a: ID:GEO0000013 ! Central Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000040
+name: Seychelles
+def: "A Republic within Africa." [GeoNames:241170, ISO_3166-2:SC]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000041
+name: Ethiopia
+def: "A Republic within Africa." [GeoNames:337996, ISO_3166-2:ET]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000042
+name: Eritrea
+def: "A State within Africa." [GeoNames:338010, ISO_3166-2:ER]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000043
+name: Egypt
+def: "A Republic within Africa." [GeoNames:357994, ISO_3166-2:EG]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000014 ! Northern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000044
+name: Sudan
+def: "A Republic within Africa." [GeoNames:366755, ISO_3166-2:SD]
+is_a: ID:GEO0000014 ! Northern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000045
+name: Burundi
+def: "A Republic within Africa." [GeoNames:433561, ISO_3166-2:BI]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000046
+name: Zimbabwe
+def: "A Republic within Africa." [GeoNames:878675, ISO_3166-2:ZW]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000047
+name: Zambia
+def: "A Republic within Africa." [GeoNames:895949, ISO_3166-2:ZM]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000048
+name: Comoros
+def: "A country within Africa." [GeoNames:921929, ISO_3166-2:KM]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000049
+name: Malawi
+def: "A Republic within Africa." [GeoNames:927384, ISO_3166-2:MW]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000050
+name: Lesotho
+def: "A Kingdom within Africa." [GeoNames:932692, ISO_3166-2:LS]
+is_a: ID:GEO0000028 ! Southern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000051
+name: Botswana
+def: "A Republic within Africa." [GeoNames:933860, ISO_3166-2:BW]
+is_a: ID:GEO0000028 ! Southern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000052
+name: Mauritius
+def: "A Republic within Africa." [GeoNames:934292, ISO_3166-2:MU]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000053
+name: Swaziland
+def: "A Kingdom within Africa." [GeoNames:934841, ISO_3166-2:SZ]
+is_a: ID:GEO0000028 ! Southern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000054
+name: Reunion
+def: "An island in the Indian Ocean." [GeoNames:935317, ISO_3166-2:RE]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000055
+name: South Africa
+def: "A country within Africa." [GeoNames:953987, ISO_3166-2:ZA]
+is_a: ID:GEO0000028 ! Southern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000056
+name: Mayotte
+def: "An island in the Indian Ocean." [GeoNames:1024031, ISO_3166-2:YT]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000057
+name: Mozambique
+def: "A Republic within Africa." [GeoNames:1036973, ISO_3166-2:MZ]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000058
+name: Madagascar
+def: "A Republic within Africa." [GeoNames:1062947, ISO_3166-2:MG]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000059
+name: Libya
+def: "A country within Africa." [GeoNames:2215636, ISO_3166-2:LY]
+is_a: ID:GEO0000014 ! Northern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000060
+name: Cameroon
+def: "A Republic within Africa." [GeoNames:2233387, ISO_3166-2:CM]
+is_a: ID:GEO0000013 ! Central Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000061
+name: Senegal
+def: "A Republic within Africa." [GeoNames:2245662, ISO_3166-2:SN]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000062
+name: Congo
+def: "The Republic of Congo  is a country located in Central Africa. It is bordered by five countries: Gabon and the Atlantic Ocean to the west; Cameroon to the northwest; the Central African Republic to the northeast; the Democratic Republic of the Congo to the east and south; and the Angolan exclave of Cabinda to the southwest [Wikipedia]." [GeoNames:2260494, ISO_3166-2:CG]
+is_a: ID:GEO0000013 ! Central Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000063
+name: Liberia
+def: "A Republic within Africa." [GeoNames:2275384, ISO_3166-2:LR]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000064
+name: Ivory Coast
+def: "A Republic within Africa." [GeoNames:2287781, ISO_3166-2:CI]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000065
+name: Ghana
+def: "A Republic within Africa." [GeoNames:2300660, ISO_3166-2:GH]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000066
+name: Equatorial Guinea
+def: "A Republic within Africa." [GeoNames:2309096, ISO_3166-2:GQ]
+is_a: ID:GEO0000013 ! Central Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000067
+name: Nigeria
+def: "A Republic within Africa." [GeoNames:2328926, ISO_3166-2:NG]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000068
+name: Burkina Faso
+def: "A country within Africa." [GeoNames:2361809, ISO_3166-2:BF]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000069
+name: Togo
+def: "A Republic within Africa." [GeoNames:2363686, ISO_3166-2:TG]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000070
+name: Guinea-Bissau
+def: "A country within " [GeoNames:2372248, ISO_3166-2:GW]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000071
+name: Mauritania
+def: "A Republic within Africa." [GeoNames:2378080, ISO_3166-2:MR]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000072
+name: Benin
+def: "A Republic within Africa." [GeoNames:2395170, ISO_3166-2:BJ]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000073
+name: Gabon
+def: "A Republic within Africa." [GeoNames:2400553, ISO_3166-2:GA]
+is_a: ID:GEO0000013 ! Central Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000074
+name: Sierra Leone
+def: "A Republic within Africa." [GeoNames:2403846, ISO_3166-2:SL]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000075
+name: Sao Tome and Principe
+def: "A country within " [GeoNames:2410758, ISO_3166-2:ST]
+is_a: ID:GEO0000013 ! Central Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000076
+name: Gambia
+def: "A country within Africa." [GeoNames:2413451, ISO_3166-2:GM]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000077
+name: Guinea
+def: "A Republic within Africa." [GeoNames:2420477, ISO_3166-2:GN]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000078
+name: Chad
+def: "A Republic within Africa." [GeoNames:2434508, ISO_3166-2:TD]
+is_a: ID:GEO0000013 ! Central Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000079
+name: Niger
+def: "A Republic within Africa." [GeoNames:2440476, ISO_3166-2:NE]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000080
+name: Mali
+def: "A Republic within Africa." [GeoNames:2453866, ISO_3166-2:ML]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000081
+name: Western Sahara
+def: "Western Sahara is a disputed territory in the Maghreb region of North Africa, bordered by Morocco to the north, Algeria to the northeast, Mauritania to the east and south, and the Atlantic Ocean to the west.[Wikipedia]" [GeoNames:2461445, ISO_3166-2:EH]
+is_a: ID:GEO0000001 ! Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000082
+name: Tunisia
+def: "A Republic within Africa." [GeoNames:2464461, ISO_3166-2:TN]
+is_a: ID:GEO0000014 ! Northern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000083
+name: Morocco
+def: "A Kingdom within Africa." [GeoNames:2542007, ISO_3166-2:MA]
+is_a: ID:GEO0000014 ! Northern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000084
+name: Algeria
+def: "A Republic within Africa." [GeoNames:2589581, ISO_3166-2:DZ]
+is_a: ID:GEO0000014 ! Northern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000085
+name: Angola
+def: "A Republic within Africa." [GeoNames:3351879, ISO_3166-2:AO]
+is_a: ID:GEO0000013 ! Central Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000086
+name: Namibia
+def: "A Republic within Africa." [GeoNames:3355338, ISO_3166-2:NA]
+is_a: ID:GEO0000028 ! Southern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000087
+name: Saint Helena, Ascension, and Tristan da Cunha
+def: "A group of islands in the South Atlantic." [GeoNames:3370751, ISO_3166-2:SH]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000088
+name: Cabo Verde
+def: "A Republic within Africa." [GeoNames:3374766, ISO_3166-2:CV]
+is_a: ID:GEO0000012 ! Western Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000089
+name: South Sudan
+def: "A country within Africa." [GeoNames:7909807, ISO_3166-2:SS]
+is_a: ID:GEO0000015 ! Eastern Africa
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000090
+name: Yemen
+def: "A country within Asia." [GeoNames:69543, ISO_3166-2:YE]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000009 ! Arabia
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000091
+name: Iraq
+def: "A country within Asia." [GeoNames:99237, ISO_3166-2:IQ]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000092
+name: Saudi Arabia
+def: "A country within Asia." [GeoNames:102358, ISO_3166-2:SA]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000009 ! Arabia
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000093
+name: Iran
+def: "A country within Asia." [GeoNames:130758, ISO_3166-2:IR]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000021 ! Southern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000094
+name: Syria
+def: "A country within Asia." [GeoNames:163843, ISO_3166-2:SY]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000095
+name: Armenia
+def: "A country within Asia." [GeoNames:174982, ISO_3166-2:AM]
+is_a: ID:GEO0000031 ! Caucasus Region
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000096
+name: Jordan
+def: "A country within Asia." [GeoNames:248816, ISO_3166-2:JO]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000097
+name: Lebanon
+def: "A country within Asia." [GeoNames:272103, ISO_3166-2:LB]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000098
+name: Kuwait
+def: "A country within Asia." [GeoNames:285570, ISO_3166-2:KW]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000009 ! Arabia
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000099
+name: Oman
+def: "A country within Asia." [GeoNames:286963, ISO_3166-2:OM]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000009 ! Arabia
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000100
+name: Qatar
+def: "A country within Asia." [GeoNames:289688, ISO_3166-2:QA]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000009 ! Arabia
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000101
+name: Bahrain
+def: "A country within Asia." [GeoNames:290291, ISO_3166-2:BH]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000009 ! Arabia
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000102
+name: United Arab Emirates
+def: "A country within Asia." [GeoNames:290557, ISO_3166-2:AE]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000009 ! Arabia
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000103
+name: Israel
+def: "A country within Asia." [GeoNames:294640, ISO_3166-2:IL]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000104
+name: Turkey
+def: "A country within Asia." [GeoNames:298795, ISO_3166-2:TR]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000105
+name: Azerbaijan
+def: "A country within Asia." [GeoNames:587116, ISO_3166-2:AZ]
+is_a: ID:GEO0000031 ! Caucasus Region
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000106
+name: Georgia
+def: "A country within Asia." [GeoNames:614540, ISO_3166-2:GE]
+is_a: ID:GEO0000031 ! Caucasus Region
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000107
+name: Afghanistan
+def: "A country within Asia." [GeoNames:1149361, ISO_3166-2:AF]
+is_a: ID:GEO0000021 ! Southern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000108
+name: Pakistan
+def: "A country within Asia." [GeoNames:1168579, ISO_3166-2:PK]
+is_a: ID:GEO0000021 ! Southern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000109
+name: Bangladesh
+def: "A country within Asia." [GeoNames:1210997, ISO_3166-2:BD]
+is_a: ID:GEO0000021 ! Southern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000110
+name: Turkmenistan
+def: "A country within Asia." [GeoNames:1218197, ISO_3166-2:TM]
+is_a: ID:GEO0000019 ! Central Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000111
+name: Tajikistan
+def: "A country within Asia." [GeoNames:1220409, ISO_3166-2:TJ]
+is_a: ID:GEO0000019 ! Central Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000112
+name: Sri Lanka
+def: "A country within Asia." [GeoNames:1227603, ISO_3166-2:LK]
+is_a: ID:GEO0000021 ! Southern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000113
+name: Bhutan
+def: "A country within Asia." [GeoNames:1252634, ISO_3166-2:BT]
+is_a: ID:GEO0000021 ! Southern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000114
+name: India
+def: "A country within Asia." [GeoNames:1269750, ISO_3166-2:IN]
+is_a: ID:GEO0000021 ! Southern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000115
+name: Maldives
+def: "A country within Asia." [GeoNames:1282028, ISO_3166-2:MV]
+is_a: ID:GEO0000021 ! Southern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000116
+name: British Indian Ocean Territory
+def: "." [GeoNames:1282588, ISO_3166-2:IO]
+is_a: ID:GEO0000002 ! Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000117
+name: Nepal
+def: "A country within Asia." [GeoNames:1282988, ISO_3166-2:NP]
+is_a: ID:GEO0000021 ! Southern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000118
+name: Myanmar
+def: "A country within Asia." [GeoNames:1327865, ISO_3166-2:MM]
+is_a: ID:GEO0000022 ! South Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000119
+name: Uzbekistan
+def: "A country within Asia." [GeoNames:1512440, ISO_3166-2:UZ]
+is_a: ID:GEO0000019 ! Central Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000120
+name: Kazakhstan
+def: "A country within Asia." [GeoNames:1522867, ISO_3166-2:KZ]
+is_a: ID:GEO0000019 ! Central Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000121
+name: Kyrgyzstan
+def: "A country within Asia." [GeoNames:1527747, ISO_3166-2:KG]
+is_a: ID:GEO0000019 ! Central Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000122
+name: Cocos (Keeling) Islands
+def: "." [GeoNames:1547376, ISO_3166-2:CC]
+is_a: ID:GEO0000002 ! Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000123
+name: Vietnam
+def: "A country within Asia." [GeoNames:1562822, ISO_3166-2:VN]
+is_a: ID:GEO0000022 ! South Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000124
+name: Thailand
+def: "A country within Asia." [GeoNames:1605651, ISO_3166-2:TH]
+is_a: ID:GEO0000022 ! South Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000125
+name: Indonesia
+def: "A country within Asia." [GeoNames:1643084, ISO_3166-2:ID]
+is_a: ID:GEO0000022 ! South Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000126
+name: Laos
+def: "A country within Asia." [GeoNames:1655842, ISO_3166-2:LA]
+is_a: ID:GEO0000022 ! South Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000127
+name: Taiwan
+def: "A country within Asia." [GeoNames:1668284, ISO_3166-2:TW]
+is_a: ID:GEO0000020 ! Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000128
+name: Philippines
+def: "A country within Asia." [GeoNames:1694008, ISO_3166-2:PH]
+is_a: ID:GEO0000022 ! South Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000129
+name: Malaysia
+def: "A country within Asia." [GeoNames:1733045, ISO_3166-2:MY]
+is_a: ID:GEO0000022 ! South Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000130
+name: China
+def: "A country within Asia." [GeoNames:1814991, ISO_3166-2:CN]
+is_a: ID:GEO0000020 ! Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000131
+name: Hong Kong
+def: "." [GeoNames:1819730, ISO_3166-2:HK]
+is_a: ID:GEO0000020 ! Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000132
+name: Brunei Darussalam
+def: "A country within Asia." [GeoNames:1820814, ISO_3166-2:BN]
+is_a: ID:GEO0000022 ! South Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000133
+name: Macau
+def: "." [GeoNames:1821275, ISO_3166-2:MO]
+is_a: ID:GEO0000020 ! Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000134
+name: Cambodia
+def: "A Kingdom within Asia." [GeoNames:1831722, ISO_3166-2:KH]
+is_a: ID:GEO0000022 ! South Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000135
+name: South Korea
+def: "A country within Asia." [GeoNames:1835841, ISO_3166-2:KR]
+is_a: ID:GEO0000020 ! Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000136
+name: Japan
+def: "A country within Asia." [GeoNames:1861060, ISO_3166-2:JP]
+is_a: ID:GEO0000020 ! Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000137
+name: North Korea
+def: "A country within Asia." [GeoNames:1873107, ISO_3166-2:KP]
+is_a: ID:GEO0000020 ! Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000138
+name: Singapore
+def: "A country within Asia." [GeoNames:1880251, ISO_3166-2:SG]
+is_a: ID:GEO0000022 ! South Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000139
+name: Mongolia
+def: "A country within Asia." [GeoNames:2029969, ISO_3166-2:MN]
+is_a: ID:GEO0000020 ! Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000140
+name: Christmas Island
+def: "." [GeoNames:2078138, ISO_3166-2:CX]
+is_a: ID:GEO0000002 ! Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000141
+name: Palestine
+def: "." [GeoNames:6254930, ISO_3166-2:PS]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000023 ! Western Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000142
+name: Cyprus
+def: "Cyprus is an island country in the Eastern Mediterranean." [GeoNames:146669, ISO_3166-2:CY]
+is_a: ID:GEO0000008 ! Middle East
+is_a: ID:GEO0000023 ! Western Asia
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000143
+name: Greece
+def: "A country within Europe." [GeoNames:390903, ISO_3166-2:GR]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000144
+name: Estonia
+def: "A country within Europe." [GeoNames:453733, ISO_3166-2:EE]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000145
+name: Latvia
+def: "A country within Europe." [GeoNames:458258, ISO_3166-2:LV]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000146
+name: Lithuania
+def: "A country within Europe." [GeoNames:597427, ISO_3166-2:LT]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000147
+name: Svalbard and Jan Mayen
+def: "." [GeoNames:607072, ISO_3166-2:SJ]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000148
+name: Svalbard
+def: "." [GeoNames:7521757]
+is_a: ID:GEO0000147 ! Svalbard and Jan Mayen
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000149
+name: Jan Mayen
+def: "." [GeoNames:3041964]
+is_a: ID:GEO0000147 ! Svalbard and Jan Mayen
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000150
+name: Moldova
+def: "A country within Europe." [GeoNames:617790, ISO_3166-2:MD]
+is_a: ID:GEO0000011 ! Eastern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000151
+name: Belarus
+def: "A country within " [GeoNames:630336, ISO_3166-2:BY]
+is_a: ID:GEO0000011 ! Eastern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000152
+name: Finland
+def: "A country within Europe." [GeoNames:660013, ISO_3166-2:FI]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000153
+name: Aland Islands
+def: "." [GeoNames:661882, ISO_3166-2:AX]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000154
+name: Ukraine
+def: "Ukraine is a sovereign state in Eastern Europe,[8] bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast, respectively. [Wikipedia]" [GeoNames:690791, ISO_3166-2:UA]
+is_a: ID:GEO0000011 ! Eastern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000155
+name: Macedonia
+def: "A country within Europe." [GeoNames:718075, ISO_3166-2:MK]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000156
+name: Hungary
+def: "A country within Europe." [GeoNames:719819, ISO_3166-2:HU]
+is_a: ID:GEO0000011 ! Eastern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000157
+name: Bulgaria
+def: "A country within Europe." [GeoNames:732800, ISO_3166-2:BG]
+is_a: ID:GEO0000011 ! Eastern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000158
+name: Albania
+def: "A country within Europe." [GeoNames:783754, ISO_3166-2:AL]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000159
+name: Poland
+def: "A country within Europe." [GeoNames:798544, ISO_3166-2:PL]
+is_a: ID:GEO0000011 ! Eastern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000160
+name: Romania
+def: "A country within Europe." [GeoNames:798549, ISO_3166-2:RO]
+is_a: ID:GEO0000011 ! Eastern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000161
+name: Kosovo
+def: "A Republic within Europe." [GeoNames:831053]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000162
+name: Russia
+def: "A country within " [GeoNames:2017370, ISO_3166-2:RU]
+is_a: ID:GEO0000011 ! Eastern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000163
+name: Portugal
+def: "A country within Europe." [GeoNames:2264397, ISO_3166-2:PT]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000164
+name: Gibraltar
+def: "." [GeoNames:2411586, ISO_3166-2:GI]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000165
+name: Spain
+def: "A Kingdom within Europe." [GeoNames:2510769, ISO_3166-2:ES]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000166
+name: Malta
+def: "A country within Europe." [GeoNames:2562770, ISO_3166-2:MT]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000167
+name: Faroe Islands
+def: "." [GeoNames:2622320, ISO_3166-2:FO]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000168
+name: Denmark
+def: "A Kingdom within Europe." [GeoNames:2623032, ISO_3166-2:DK]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000169
+name: Iceland
+def: "A country within Europe." [GeoNames:2629691, ISO_3166-2:IS]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000170
+name: United Kingdom
+def: "A Kingdom within Europe." [GeoNames:2635167, ISO_3166-2:GB]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000171
+name: Switzerland
+def: "A country within Europe." [GeoNames:2658434, ISO_3166-2:CH]
+is_a: ID:GEO0000030 ! Western Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000172
+name: Sweden
+def: "A Kingdom within Europe." [GeoNames:2661886, ISO_3166-2:SE]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000173
+name: Netherlands
+def: "A Kingdom within Europe." [GeoNames:2750405, ISO_3166-2:NL]
+is_a: ID:GEO0000030 ! Western Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000174
+name: Austria
+def: "A country within Europe." [GeoNames:2782113, ISO_3166-2:AT]
+is_a: ID:GEO0000030 ! Western Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000175
+name: Belgium
+def: "A Kingdom within Europe." [GeoNames:2802361, ISO_3166-2:BE]
+is_a: ID:GEO0000030 ! Western Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000176
+name: Germany
+def: "A country within Europe." [GeoNames:2921044, ISO_3166-2:DE]
+is_a: ID:GEO0000030 ! Western Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000177
+name: Luxembourg
+def: "A country within Europe." [GeoNames:2960313, ISO_3166-2:LU]
+is_a: ID:GEO0000030 ! Western Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000178
+name: Ireland
+def: "A country within Europe." [GeoNames:2963597, ISO_3166-2:IE]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000179
+name: Monaco
+def: "A country within Europe." [GeoNames:2993457, ISO_3166-2:MC]
+is_a: ID:GEO0000030 ! Western Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000180
+name: France
+def: "A country within Europe." [GeoNames:3017382, ISO_3166-2:FR]
+is_a: ID:GEO0000030 ! Western Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000181
+name: Andorra
+def: "A Principality within Europe." [GeoNames:3041565, ISO_3166-2:AD]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000182
+name: Liechtenstein
+def: "A country within Europe." [GeoNames:3042058, ISO_3166-2:LI]
+is_a: ID:GEO0000030 ! Western Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000183
+name: Jersey
+def: "." [GeoNames:3042142, ISO_3166-2:JE]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000184
+name: Isle of Man
+def: "." [GeoNames:3042225, ISO_3166-2:IM]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000185
+name: Guernsey
+def: "." [GeoNames:3042362, ISO_3166-2:GG]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000186
+name: Slovakia
+def: "A country within Europe." [GeoNames:3057568, ISO_3166-2:SK]
+is_a: ID:GEO0000011 ! Eastern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000187
+name: Czechia
+def: "A country within Europe." [GeoNames:3077311, ISO_3166-2:CZ]
+is_a: ID:GEO0000011 ! Eastern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000188
+name: Norway
+def: "A Kingdom within Europe." [GeoNames:3144096, ISO_3166-2:NO]
+is_a: ID:GEO0000010 ! Northern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000189
+name: Vatican City
+def: "A State within Europe." [GeoNames:3164670, ISO_3166-2:VA]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000190
+name: San Marino
+def: "A Republic within Europe." [GeoNames:3168068, ISO_3166-2:SM]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000191
+name: Italy
+def: "A country within Europe." [GeoNames:3175395, ISO_3166-2:IT]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000192
+name: Slovenia
+def: "A country within Europe." [GeoNames:3190538, ISO_3166-2:SI]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000193
+name: Montenegro
+def: "A country within Europe." [GeoNames:3194884, ISO_3166-2:ME]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000194
+name: Croatia
+def: "A country within Europe." [GeoNames:3202326, ISO_3166-2:HR]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000195
+name: Bosnia and Herzegovina
+def: "A country within Europe." [GeoNames:3277605, ISO_3166-2:BA]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000196
+name: Serbia
+def: "A country within Europe." [GeoNames:6290252, ISO_3166-2:RS]
+is_a: ID:GEO0000029 ! Southern Europe
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000197
+name: British Virgin Islands
+def: "." [GeoNames:3577718, ISO_3166-2:VG]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000198
+name: Barbados
+def: "A country within " [GeoNames:3374084, ISO_3166-2:BB]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000199
+name: Saint Pierre et Miquelon
+def: "." [GeoNames:3424932]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000016 ! Northern America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000200
+name: Greenland
+def: "." [GeoNames:3425505, ISO_3166-2:GL]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000016 ! Northern America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000201
+name: Jamaica
+def: "." [GeoNames:3489940, ISO_3166-2:JM]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000202
+name: Dominican Republic
+def: "A country within " [GeoNames:3508796, ISO_3166-2:DO]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000203
+name: Cuba
+def: "A country within " [GeoNames:3562981, ISO_3166-2:CU]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000204
+name: Martinique
+def: "." [GeoNames:3570311, ISO_3166-2:MQ]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000205
+name: Bahamas
+def: "A country within " [GeoNames:3572887, ISO_3166-2:BS]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000206
+name: Bermuda
+def: "." [GeoNames:3573345, ISO_3166-2:BM]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000016 ! Northern America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000207
+name: Anguilla
+def: "." [GeoNames:3573511, ISO_3166-2:AI]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000208
+name: Trinidad and Tobago
+def: "A country within " [GeoNames:3573591, ISO_3166-2:TT]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000209
+name: Saint Kitts and Nevis
+def: "A country within " [GeoNames:3575174, ISO_3166-2:KN]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000210
+name: Dominica
+def: "A country within " [GeoNames:3575830, ISO_3166-2:DM]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000211
+name: Antigua and Barbuda
+def: "A country within " [GeoNames:3576396, ISO_3166-2:AG]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000212
+name: Saint Lucia
+def: "A country within " [GeoNames:3576468, ISO_3166-2:LC]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000213
+name: Aruba
+def: "." [GeoNames:3577279, ISO_3166-2:AW]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000214
+name: Saint Vincent and the Grenadines
+def: "A country within ." [GeoNames:3577815, ISO_3166-2:VC]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000215
+name: Saint Martin
+def: "." [GeoNames:3578421, ISO_3166-2:MF]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000216
+name: Saint Barthelemy
+def: "." [GeoNames:3578476]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000217
+name: Guadeloupe
+def: "." [GeoNames:3579143, ISO_3166-2:GP]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000218
+name: Turks and Caicos Islands
+def: "." [GeoNames:3576916, ISO_3166-2:TC]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000219
+name: Montserrat
+def: "." [GeoNames:3578097, ISO_3166-2:MS]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000220
+name: Grenada
+def: "A island within " [GeoNames:3580239, ISO_3166-2:GD]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000221
+name: Cayman Islands
+def: "." [GeoNames:3580718, ISO_3166-2:KY]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000222
+name: Belize
+def: "A Republic within Central America." [GeoNames:3582678, ISO_3166-2:BZ]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000018 ! Central America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000223
+name: El Salvador
+def: "A Republic within " [GeoNames:3585968, ISO_3166-2:SV]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000018 ! Central America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000224
+name: Guatemala
+def: "A Republic within " [GeoNames:3595528, ISO_3166-2:GT]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000018 ! Central America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000225
+name: Honduras
+def: "A Republic within " [GeoNames:3608932, ISO_3166-2:HN]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000018 ! Central America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000226
+name: Nicaragua
+def: "A Republic within " [GeoNames:3617476, ISO_3166-2:NI]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000018 ! Central America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000227
+name: Costa Rica
+def: "A Republic within " [GeoNames:3624060, ISO_3166-2:CR]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000018 ! Central America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000228
+name: Panama
+def: "A Republic within " [GeoNames:3703430, ISO_3166-2:PA]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000018 ! Central America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000229
+name: Haiti
+def: "A Republic within " [GeoNames:3723988, ISO_3166-2:HT]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000230
+name: Mexico
+def: "A country within Central America." [GeoNames:3996063, ISO_3166-2:MX]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000018 ! Central America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000231
+name: Puerto Rico
+def: "." [GeoNames:4566966, ISO_3166-2:PR]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000232
+name: U.S. Virgin Islands
+def: "." [GeoNames:4796775, ISO_3166-2:VI]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000233
+name: Canada
+def: "A country within North America." [GeoNames:6251999, ISO_3166-2:CA]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000016 ! Northern America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000234
+name: United States of America
+def: "A country within North America." [GeoNames:6252001, ISO_3166-2:US]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000016 ! Northern America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000235
+name: Sint Maarten
+def: "." [GeoNames:7609695, ISO_3166-2:SX]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000236
+name: Curacao
+def: "." [GeoNames:7626836]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000237
+name: Bonaire, Sint Eustatius and Saba
+def: "." [GeoNames:7626844, ISO_3166-2:BQ]
+is_a: ID:GEO0000004 ! North America
+is_a: ID:GEO0000017 ! Caribbean
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000238
+name: Netherlands Antilles
+def: "." [GeoNames:8505032]
+is_a: ID:GEO0000004 ! North America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000239
+name: Guyana
+def: "A country within South America." [GeoNames:3378535, ISO_3166-2:GY]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000240
+name: French Guiana
+def: "A French dependency in South America." [GeoNames:3381670, ISO_3166-2:GF]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000241
+name: Suriname
+def: "A country within South America." [GeoNames:3382998, ISO_3166-2:SR]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000242
+name: Paraguay
+def: "A country within South America." [GeoNames:3437598, ISO_3166-2:PY]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000243
+name: Uruguay
+def: "A country within South America." [GeoNames:3439705, ISO_3166-2:UY]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000244
+name: Brazil
+def: "A country within South America." [GeoNames:3469034, ISO_3166-2:BR]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000245
+name: Falkland Islands
+def: "A Dependency in the South Atlantic." [GeoNames:3474414, ISO_3166-2:FK]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000246
+name: Venezuela
+def: "A country within South America." [GeoNames:3625428, ISO_3166-2:VE]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000247
+name: Ecuador
+def: "A country within South America." [GeoNames:3658394, ISO_3166-2:EC]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000248
+name: Colombia
+def: "A country within South America." [GeoNames:3686110, ISO_3166-2:CO]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000249
+name: Argentina
+def: "A country within South America." [GeoNames:3865483, ISO_3166-2:AR]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000250
+name: Chile
+def: "A country within South America." [GeoNames:3895114, ISO_3166-2:CL]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000251
+name: Bolivia
+def: "A country within South America." [GeoNames:3923057, ISO_3166-2:BO]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000252
+name: Peru
+def: "A country within South America." [GeoNames:3932488, ISO_3166-2:PE]
+is_a: ID:GEO0000005 ! South America
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000253
+name: Palau
+def: "An island Republic in the Pacific Ocean." [GeoNames:1559582, ISO_3166-2:PW]
+is_a: ID:GEO0000026 ! Micronesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000254
+name: Cook Islands
+def: "." [GeoNames:1899402, ISO_3166-2:CK]
+is_a: ID:GEO0000027 ! Polynesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000255
+name: Timor-Leste
+def: "A country within " [GeoNames:1966436, ISO_3166-2:TL]
+is_a: ID:GEO0000006 ! Oceania
+is_a: ID:GEO0000022 ! South Eastern Asia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000256
+name: Australia
+def: "A country within " [GeoNames:2077456, ISO_3166-2:AU]
+is_a: ID:GEO0000024 ! Australia and New Zealand
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000257
+name: Marshall Islands
+def: "." [GeoNames:2080185, ISO_3166-2:MH]
+is_a: ID:GEO0000026 ! Micronesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000258
+name: Federated States of Micronesia
+def: "." [GeoNames:2081918, ISO_3166-2:FM]
+is_a: ID:GEO0000026 ! Micronesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000259
+name: Papua New Guinea
+def: "A country within " [GeoNames:2088628, ISO_3166-2:PG]
+is_a: ID:GEO0000025 ! Melanesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000260
+name: Solomon Islands
+def: "A country within Oceania." [GeoNames:2103350, ISO_3166-2:SB]
+is_a: ID:GEO0000025 ! Melanesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000261
+name: Tuvalu
+def: "A country within Oceania." [GeoNames:2110297, ISO_3166-2:TV]
+is_a: ID:GEO0000027 ! Polynesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000262
+name: Nauru
+def: "A country within Oceania." [GeoNames:2110425, ISO_3166-2:NR]
+is_a: ID:GEO0000026 ! Micronesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000263
+name: Vanuatu
+def: "A country within ." [GeoNames:2134431, ISO_3166-2:VU]
+is_a: ID:GEO0000025 ! Melanesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000264
+name: New Caledonia
+def: "Nouvelle-Caledonie." [GeoNames:2139685, ISO_3166-2:NC]
+is_a: ID:GEO0000025 ! Melanesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000265
+name: Norfolk Island
+def: "Island." [GeoNames:2155115, ISO_3166-2:NF]
+is_a: ID:GEO0000024 ! Australia and New Zealand
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000266
+name: New Zealand
+def: "A country within " [GeoNames:2186224, ISO_3166-2:NZ]
+is_a: ID:GEO0000024 ! Australia and New Zealand
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000267
+name: Fiji
+def: "." [GeoNames:2205218, ISO_3166-2:FJ]
+is_a: ID:GEO0000025 ! Melanesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000268
+name: French Polynesia
+def: "Polynesie Francaise." [GeoNames:4030656, ISO_3166-2:PF]
+is_a: ID:GEO0000006 ! Oceania
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000269
+name: Pitcairn
+def: "." [GeoNames:4030699, ISO_3166-2:PN]
+is_a: ID:GEO0000027 ! Polynesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000270
+name: Kiribati
+def: "Gilbert Islands." [GeoNames:4030945, ISO_3166-2:KI]
+is_a: ID:GEO0000026 ! Micronesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000271
+name: Tokelau
+def: "." [GeoNames:4031074, ISO_3166-2:TK]
+is_a: ID:GEO0000027 ! Polynesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000272
+name: Tonga
+def: "A country within " [GeoNames:4032283, ISO_3166-2:TO]
+is_a: ID:GEO0000027 ! Polynesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000273
+name: Wallis et Futuna
+def: "." [GeoNames:4034749, ISO_3166-2:WF]
+is_a: ID:GEO0000027 ! Polynesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000274
+name: Samoa
+def: "A country within ." [GeoNames:4034894, ISO_3166-2:WS]
+is_a: ID:GEO0000027 ! Polynesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000275
+name: Niue
+def: "." [GeoNames:4036232, ISO_3166-2:NU]
+is_a: ID:GEO0000027 ! Polynesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000276
+name: Northern Mariana Islands
+def: "." [GeoNames:4041468, ISO_3166-2:MP]
+is_a: ID:GEO0000006 ! Oceania
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000277
+name: Guam
+def: "Guam is a U.S. island territory in Micronesia, in the Western Pacific. [Wikipedia]" [GeoNames:4043988, ISO_3166-2:GU]
+is_a: ID:GEO0000026 ! Micronesia
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000278
+name: United States Minor Outlying Islands
+def: "." [GeoNames:5854968, ISO_3166-2:UM]
+is_a: ID:GEO0000006 ! Oceania
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000279
+name: American Samoa
+def: "." [GeoNames:5880801, ISO_3166-2:AS]
+is_a: ID:GEO0000006 ! Oceania
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
+[Term]
+id: ID:GEO0000280
+name: French Southern Territories
+def: "." [GeoNames:1546748, ISO_3166-2:TF]
+is_a: ID:GEO0000007 ! Antarctica
+created_by: lawson
+creation_date: 2017-02-17T00:00:00Z
+
